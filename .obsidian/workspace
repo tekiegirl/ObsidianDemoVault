@@ -4,15 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2a22ad59dd78d0ae",
+        "id": "ea0db4456dcaf707",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Research Topic B/_moc Research Topic B.md",
             "mode": "source",
             "source": false
           }
+        }
+      },
+      {
+        "id": "3c0ee0e70437af40",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "elit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 180.99999809265137
   },
   "right": {
     "id": "f9721e5f79ad22a2",
@@ -69,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Research Topic B/_moc Research Topic B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,12 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2a22ad59dd78d0ae",
+  "active": "ea0db4456dcaf707",
   "lastOpenFiles": [
-    "README.md",
-    "Training Course D/_moc Training Course D.md",
     "Research Topic B/_moc Research Topic B.md",
+    "Training Course D/_moc Training Course D.md",
+    "Research Topic A/Lorem ipsum.md",
+    "Research Topic A/Libero senectus.md",
+    "Research Topic A/Consectetur.md",
+    "Research Topic A/Ante magnis justo.md",
     "Research Topic A/_moc Research Topic A.md",
-    "Conference C/_moc Conference C.md"
+    "README.md",
+    "Research Topic B/00d2baca-dfe1-415a-9e4f-f224685e0f40.jpg",
+    "Research Topic B/Adipiscing aenean lectus.md"
   ]
 }
