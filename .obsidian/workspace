@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ea0db4456dcaf707",
+        "id": "6182c4066806572f",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Research Topic B/517bd4e4-810c-4dfb-871b-04612def6224.jpg"
+            "file": "Training Course D/Vivamus integer.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Topic B/517bd4e4-810c-4dfb-871b-04612def6224.jpg",
+                "file": "Training Course D/Vivamus integer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -77,25 +79,36 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "d751bce34fd8ca37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "ea0db4456dcaf707",
+  "active": "6182c4066806572f",
   "lastOpenFiles": [
-    "Research Topic B/517bd4e4-810c-4dfb-871b-04612def6224.jpg",
-    "Research Topic B/00d2baca-dfe1-415a-9e4f-f224685e0f40.jpg",
-    "Research Topic A/reshot-illustration-medical-research-5FDB83TGN2.png",
-    "Research Topic A/reshot-illustration-covid-19-medical-research-3DR6WX897H.png",
-    "Conference C/reshot-illustration-online-health-consultation-Q2AF6UJHW3.png",
-    "Research Topic B/_moc Research Topic B.md",
+    "Training Course D/Vivamus integer.md",
+    "Training Course D/Ultricies tortor.md",
+    "Training Course D/Phasellus.md",
+    "Training Course D/Mollis pretium.md",
+    "Training Course D/Metus.md",
+    "Training Course D/Integer phasellus taciti pretium.md",
+    "Training Course D/Dapibus imperdiet praesent magnis.md",
     "Training Course D/_moc Training Course D.md",
-    "Research Topic A/Lorem ipsum.md",
-    "Research Topic A/Libero senectus.md",
-    "Research Topic A/Consectetur.md"
+    "Research Topic B/_moc Research Topic B.md",
+    "Research Topic B/Lorem quis iaculis.md"
   ]
 }
