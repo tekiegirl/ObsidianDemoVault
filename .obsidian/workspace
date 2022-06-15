@@ -7,20 +7,10 @@
         "id": "ea0db4456dcaf707",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Research Topic B/_moc Research Topic B.md",
-            "mode": "source",
-            "source": false
+            "file": "Research Topic B/517bd4e4-810c-4dfb-871b-04612def6224.jpg"
           }
-        }
-      },
-      {
-        "id": "3c0ee0e70437af40",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
         }
       }
     ],
@@ -61,7 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 180.99999809265137
+    "width": 505.99999809265137
   },
   "right": {
     "id": "f9721e5f79ad22a2",
@@ -77,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Topic B/_moc Research Topic B.md",
+                "file": "Research Topic B/517bd4e4-810c-4dfb-871b-04612def6224.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +87,15 @@
   },
   "active": "ea0db4456dcaf707",
   "lastOpenFiles": [
+    "Research Topic B/517bd4e4-810c-4dfb-871b-04612def6224.jpg",
+    "Research Topic B/00d2baca-dfe1-415a-9e4f-f224685e0f40.jpg",
+    "Research Topic A/reshot-illustration-medical-research-5FDB83TGN2.png",
+    "Research Topic A/reshot-illustration-covid-19-medical-research-3DR6WX897H.png",
+    "Conference C/reshot-illustration-online-health-consultation-Q2AF6UJHW3.png",
     "Research Topic B/_moc Research Topic B.md",
     "Training Course D/_moc Training Course D.md",
     "Research Topic A/Lorem ipsum.md",
     "Research Topic A/Libero senectus.md",
-    "Research Topic A/Consectetur.md",
-    "Research Topic A/Ante magnis justo.md",
-    "Research Topic A/_moc Research Topic A.md",
-    "README.md",
-    "Research Topic B/00d2baca-dfe1-415a-9e4f-f224685e0f40.jpg",
-    "Research Topic B/Adipiscing aenean lectus.md"
+    "Research Topic A/Consectetur.md"
   ]
 }
