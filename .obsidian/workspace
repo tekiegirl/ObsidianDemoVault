@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6182c4066806572f",
+        "id": "b1f7a8ebb8d94bcd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Training Course D/Vivamus integer.md",
+            "file": "Research Topic A/_moc Research Topic A.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elit",
+                "query": "Mollis pretium",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 505.99999809265137
+    "width": 190
   },
   "right": {
     "id": "f9721e5f79ad22a2",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training Course D/Vivamus integer.md",
+                "file": "Research Topic A/_moc Research Topic A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,19 +96,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "6182c4066806572f",
+  "active": "b1f7a8ebb8d94bcd",
   "lastOpenFiles": [
-    "Training Course D/Vivamus integer.md",
-    "Training Course D/Ultricies tortor.md",
-    "Training Course D/Phasellus.md",
-    "Training Course D/Mollis pretium.md",
-    "Training Course D/Metus.md",
-    "Training Course D/Integer phasellus taciti pretium.md",
-    "Training Course D/Dapibus imperdiet praesent magnis.md",
-    "Training Course D/_moc Training Course D.md",
-    "Research Topic B/_moc Research Topic B.md",
-    "Research Topic B/Lorem quis iaculis.md"
+    "Research Topic A/_moc Research Topic A.md",
+    "Conference C/_moc Conference C.md",
+    "Conference C/Dolor rutrum nisl.md",
+    "Conference C/Massa.md",
+    "Conference C/Massa nibh platea.md",
+    "Research Topic B/A ultricies.md",
+    "Research Topic A/Lorem ipsum.md",
+    "Conference C/Placerat eu.md",
+    "Research Topic B/Lorem quis iaculis.md",
+    "Training Course D/Mollis pretium.md"
   ]
 }

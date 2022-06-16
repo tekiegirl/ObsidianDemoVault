@@ -1,22 +1,51 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Conference C\"",
+      "color": {
+        "a": 1,
+        "rgb": 7465972
+      }
+    },
+    {
+      "query": "path:\"Research Topic A\"",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"Research Topic B\"",
+      "color": {
+        "a": 1,
+        "rgb": 12762122
+      }
+    },
+    {
+      "query": "path:\"Training Course D\"",
+      "color": {
+        "a": 1,
+        "rgb": 14851273
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 8.37606837606838,
   "linkStrength": 0.897435897435898,
   "linkDistance": 191,
-  "scale": 1.4019828977761015,
+  "scale": 1.0000000000000027,
   "close": false
 }
